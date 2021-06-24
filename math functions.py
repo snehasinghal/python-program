@@ -12,3 +12,11 @@ print(max)
 #abs() function to find absolute value
 a= -532
 print(abs(a))
+
+
+#pow(a,b) function to find the value of a to the power b
+
+a=2
+b=3
+x=pow(a,b)
+print(x)
