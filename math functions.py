@@ -20,3 +20,8 @@ a=2
 b=3
 x=pow(a,b)
 print(x)
+
+#math.sqrt(x) function to find the square root of x
+
+x=121
+print(math.sqrt(x))
