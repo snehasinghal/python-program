@@ -8,3 +8,7 @@ min =min(x,y,z)
 max =max(x,y,z)
 print(min)
 print(max)
+
+#abs() function to find absolute value
+a= -532
+print(abs(a))
